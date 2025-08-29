@@ -1,0 +1,3 @@
+[submodule "components/esp-arduino-ble-scales"]
+	path = components/esp-arduino-ble-scales
+	url = https://github.com/Zer0-bit/esp-arduino-ble-scales.git
